@@ -1,0 +1,33 @@
+{
+    "name": "scrollToTop",
+    "title": "jQuery scrollToTop",
+    "description": "a scrollToTop jQuery plugin.",
+    "keywords": [
+        "scrollToTop"
+    ],
+    "version": "1.0",
+    "author": {
+        "name": "Yang Zhao",
+        "url": "http://www.geniuscarrier.com/about/"
+    },
+    "maintainers": [
+        {
+            "name": "Yang Zhao",
+            "email": "geniuscarrier@gmail.com",
+            "url": "http://www.geniuscarrier.com/"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "bugs": "https://github.com/geniuscarrier/scrollToTop/issues",
+    "homepage": "https://github.com/geniuscarrier/scrollToTop",
+    "docs": "https://github.com/geniuscarrier/scrollToTop",
+    "download": "https://github.com/geniuscarrier/scrollToTop/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
