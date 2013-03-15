@@ -49,4 +49,4 @@ Live Demo:
 -------------------------
 
 * [Homepage](http://www.geniuscarrier.com)
-* [Demo](http://www.geniuscarrier.com/demo/scrollToTop.html)
+* [Demo](http://www.geniuscarrier.com/demo/scrollToTop/scrollToTop.html)
