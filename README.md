@@ -50,3 +50,7 @@ Live Demo:
 
 * [Homepage](http://www.geniuscarrier.com)
 * [Demo](http://www.geniuscarrier.com/demo/scrollToTop/scrollToTop.html)
+
+License:
+-------------------------
+Released under the [MIT license](http://opensource.org/licenses/MIT).
