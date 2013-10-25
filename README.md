@@ -8,14 +8,14 @@ How to use:
 1. Include necessary JS files
 
 	```
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script src="js/jquery.scrollToTop.min.js"></script>
+	<script src="jquery.js"></script>
+	<script src="jquery.scrollToTop.min.js"></script>
   	```
 
 2. Add scrollToTop CSS file
 
 	```
-	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="style.css" />
 	```
 
 3. Create a link element
@@ -49,7 +49,7 @@ Live Demo:
 -------------------------
 
 * [Homepage](http://www.geniuscarrier.com)
-* [Demo](http://www.geniuscarrier.com/demo/scrollToTop/scrollToTop.html)
+* [Demo](http://www.geniuscarrier.com/demo/scrollToTop/)
 
 License:
 -------------------------
