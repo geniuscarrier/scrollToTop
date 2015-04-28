@@ -48,7 +48,7 @@ Compatibility:
 Live Demo:
 -------------------------
 
-* [Homepage](http://www.geniuscarrier.com)
+* [Homepage](http://geniuscarrier.com)
 * [Demo](http://geniuscarrier.com/scrolltotop-a-jquery-plugin/)
 
 License:
