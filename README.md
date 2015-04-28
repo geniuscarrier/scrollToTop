@@ -49,7 +49,7 @@ Live Demo:
 -------------------------
 
 * [Homepage](http://www.geniuscarrier.com)
-* [Demo](http://www.geniuscarrier.com/demo/scrollToTop/)
+* [Demo](http://geniuscarrier.com/scrolltotop-a-jquery-plugin/)
 
 License:
 -------------------------
